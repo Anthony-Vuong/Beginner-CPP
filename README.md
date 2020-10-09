@@ -1,4 +1,4 @@
-# Beginner-C++
+# Beginner - CPP
 
 Introducion to C++ from Udemy Course - Beginning C++ Programming - From Beginner to Beyond
 
